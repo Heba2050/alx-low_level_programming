@@ -1,5 +1,15 @@
 #include <stdio.h>
-int main(void){
-	puts("\"programming is like building a multilingual puzzle");
+
+/**
+ * main - Entry point
+ *
+ * Description: A C program that prints with put function
+ *
+ * Return; Alaways 0 (Success)
+*/
+
+int main(void)
+{
+	puts("\"programming is likr building a multilingual puzzle");
 	return (0);
 }
